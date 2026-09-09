@@ -200,10 +200,6 @@ E-Commerce-Sales-Customer-Analysis/
 │
 ├── powerbi/
 │
-├── visualizations/
-│
 ├── report/
-│
-├── presentation/
 │
 └── README.md
